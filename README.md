@@ -6,8 +6,7 @@
 - 💬 Ask me about **C#, C++, MVC, Selenium, Java, HTML5, CSS, JavaScript, Python, R**
 
 - 📫 How to reach me **zeyad.hassan.balal@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1__pWwGQWRKIXQq6Cup0wQg03vB-vhvm3/view?usp=sharing](https://drive.google.com/file/d/1__pWwGQWRKIXQq6Cup0wQg03vB-vhvm3/view?usp=sharing)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
