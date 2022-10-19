@@ -1,5 +1,5 @@
 <h1 align="center">Salut! I'm Zeyad Hassan</h1>
-<h3 align="center">A passionate Software Devolper Engineer</h3>
+<h3 align="center">A passionate Software Developer Engineer</h3>
 
 - 🔭I trained at Arab Resource Group **Rhino**
 
