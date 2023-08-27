@@ -3,7 +3,7 @@
 
 - 🔭I trained at Arab Resource Group **Rhino**
 
-- 💬 Ask me about **C#, C++, MVC, Selenium, Java, HTML5, CSS, JavaScript, Python, R**
+- 💬 Ask me about **ReactJS, JavaScript, C#, C++, MVC, Selenium, Java, HTML5, CSS, JavaScript, Python, R**
 
 - 📫 How to reach me **zeyad.hassan.balal@gmail.com**
  
